@@ -1,1 +1,1 @@
-# kangaroo-game2
+# project-template-kangaroo-2
